@@ -902,6 +902,10 @@ select {
   max-height: 370px;
 }
 
+.ba-card-col-top-line img {
+  max-height: inherit;
+}
+
 .ba-card-col-line {
   padding-top: 20px;
   padding-bottom: 5px;

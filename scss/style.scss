@@ -151,6 +151,10 @@ body {}
 	flex-wrap: wrap;
 	padding-bottom: 30px;
 	max-height: 370px;
+
+	img {
+		max-height: inherit;
+	}
 }
 
 .ba-card-col-line {
